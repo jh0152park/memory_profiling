@@ -10,7 +10,7 @@
 We need some way to check about status of memory of device with easy. 
 
 Can compare memory status of devices and can check whold background process status.
-----------------------------------------
 
+----------------------------------------
 # Result File
 One simple excel file.
